@@ -1,25 +1,9 @@
-### Hi there 👋
+<h2 align="center">Hello there 👋 I'm Fábio "Jhost" Cardoso</h2>
 
-<!--
-**jhost94/jhost94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="center">Hello there ğŸ‘‹ I'm FÃ¡bio "Jhost" Cardoso</h2>
-
-ğŸ“ Learning Outsystems and Unreal Engine.<br>
-ğŸ•¹ï¸ I love video games, and I intend on making one (or more).<br>
-ğŸ¤– Interested in machine learning. <br>
-ğŸ¤ I'm looking to collaborate on any project. I prefer FullStack or Backend.<br>
+🎓 Learning Outsystems and Unreal Engine.<br>
+🕹️ I love video games, and I intend on making one (or more).<br>
+🤖 Interested in machine learning. <br>
+🤝 I'm looking to collaborate on any project. I prefer FullStack or Backend.<br>
 
 ## Contacts:
 
